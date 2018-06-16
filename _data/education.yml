@@ -1,7 +1,6 @@
 # Degree
-
-# Web Developer
-- Education: BS BA
-  School: Emmanuel College
-  Graduation: 2003
-  summary: I am a freelance front-end developer who likes to focus on responsive web designs by using HTML, CSS, JavaScript, jQuery, PHP, Bootstraps and Wordpress.
+- degree: Bachelors, Business Administration
+  uni: Emmanuel College
+  year: 2003
+  # awards:
+  # summary:
