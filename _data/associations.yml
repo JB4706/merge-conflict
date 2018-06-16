@@ -2,6 +2,8 @@
 # comment out the urls if you do not wish to display them
 
 - organization: Notary Public
+  role: Notary Public
+  year: Present
   
 - organization: Women in Development
   role: Member
