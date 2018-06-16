@@ -1,24 +1,16 @@
 # Jobs
-
 # Web Developer
-- company: GitHub, Inc.
-  position: Developer
+- company: LaBright Web Solutions
+  position: Web Developer
   duration: 2013 &mdash; Present
-  summary: I am a freelance front-end developer who likes to focus on responsive web designs by using HTML, CSS, JavaScript, jQuery, PHP, Bootstraps and Wordpress.
-
-I started my career as an Application Development Specialist helping clients by finding solutions for technical issues between applications, and operating systems running on both macs and pcs. I have over ten years of experience in analyzing software issues and designing product solutions, including creating, editing and testing code to resolve software conflicts to prevent user downtime.
-
-My experiences have led me to where I am today in my career as a developer, as I love creating and fixing things with code.
-
-# Application Specialist
+  summary: Freelance Developer
+# Job Title
+- company: Children's Hospital Boston
+  position: Application Specialist 
+  duration: 2003 &mdash; 2013
+  summary: Trained new employees on The Raiser's Edge database, and authored numerous training materials. 
+# Supportocat
 - company: Children's Hospital Boston
   position: Application Specialist
-  duration: 2003 &mdash; 2013
-  summary: Web developer for a Non Profit.
-
-# Application Specialist
-- company: Children's Hospital
-  position: Application Specialist
-  duration:  2001 &mdash; 2003
-  summary: Worked with stakeholders to provide technical expertise for both Windows and Macintosh operating systems, applications, hardware and peripherals.
-
+  duration: 2001 &mdash; 2003
+  summary: Provided technical expertise for Windows and Macintosh operating systems, clinical and non clinical applications, hardware and peripherals.  
